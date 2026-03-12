@@ -1,33 +1,62 @@
 <!-- AI Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Soumyadeep%20Pal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Soumyadeep%20Pal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Designer%20|%20AI%20Engineer%20|%20Open%20Source%20Explorer&descAlignY=60&descSize=20"/>
 </p>
 
 <!-- Typing Animation -->
 
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Game+Designer;AI+%2F+ML+Learner;Blockchain+Developer;Open+Source+Explorer"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200">
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hello+I'm+Soumyadeep+Pal;Game+Designer+%F0%9F%8E%AE;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Systems" />
 </p>
 
 ---
 
+### 👋 About Me
+
+I design **intelligent systems** and explore the intersection of
+**AI • Security • Game Design**.
+
+* 🎮 Game Designer passionate about interactive systems
+* 🤖 Learning **Artificial Intelligence & Machine Learning**
+* 💡 Interested in **Computer Architecture, DBMS, System Design**
+  
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400">
+</p>
+
+---
+
+### ⚡ Currently Working On
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20Solutions-Designing%20Real%20World%20Systems-blue?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Active%20Projects-green?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributing-orange?style=for-the-badge&logo=github"/>
+
+</p>
+
+---
+
+
 # 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/soumyadeep-pal-b0a326325)
+[![Discord](https://img.shields.io/badge/Discord-shadowzerofrost-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/shadowzerofrost)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/@SHADOWSOUMYA)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:shadowsoumya93@gmail.com)
 
 ---
 
-# 🧠 About Me
 
-* 🎮 Game Designer passionate about interactive systems
-* 🤖 Learning **Artificial Intelligence & Machine Learning**
-* 🔗 Building a **Blockchain-based Banking System with Fraud Detection**
-* 💡 Interested in **Computer Architecture, DBMS, System Design**
-
----
 
 # 💻 Tech Stack
 
@@ -52,9 +81,10 @@
 
 ---
 
-# 🧊 3D Contribution Overview
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHADOWZERO93\&theme=github_dark)
+# 🔝 Top Contributions
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHADOWZERO93&theme=github_dark)
 
 ---
 
@@ -70,17 +100,12 @@
 
 ---
 
-# 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=SHADOWZERO93\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
----
 
 # 👀 Profile Views
 
-[![](https://visitcount.itsvg.in/api?id=SHADOWZERO93\&icon=0\&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=SHADOWZERO93&color=blue&style=for-the-badge)
 
 ---
-
 ⭐ **Always learning, building, and experimenting with new technologies.**
 
