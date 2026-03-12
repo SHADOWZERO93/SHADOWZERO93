@@ -17,9 +17,8 @@
 
 ---
 
-<h3 align="center">
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Soumyadeep Pal
-</h3>
+# 👋 About Me
+
 
 I design **intelligent systems** and explore the intersection of
 **AI • Security • Game Design**.
@@ -34,7 +33,7 @@ I design **intelligent systems** and explore the intersection of
 
 ---
 
-### ⚡ Currently Working On
+# ⚡ Currently Working On
 
 <p align="center">
 
@@ -51,10 +50,25 @@ I design **intelligent systems** and explore the intersection of
 
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/soumyadeep-pal-b0a326325)
-[![Discord](https://img.shields.io/badge/Discord-shadowzerofrost-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/shadowzerofrost)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/@SHADOWSOUMYA)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:shadowsoumya93@gmail.com)
+<p align="center">
+  
+<a href="https://linkedin.com/in/soumyadeep-pal-b0a326325">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://discordapp.com/users/shadowzerofrost">
+<img src="https://img.shields.io/badge/Discord-shadowzerofrost-5865F2?logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://x.com/@SHADOWSOUMYA">
+<img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
+</a>
+
+<a href="mailto:shadowsoumya93@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
