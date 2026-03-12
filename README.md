@@ -13,12 +13,14 @@
 # 👋 About Me
 
 
-### I design **intelligent systems** and explore the intersection of
-### **AI • Security • Game Design**.
+### I design **intelligent systems** and explore the intersection of **AI • Security • Game Design**.
 
-### * 🎮 Game Designer passionate about interactive systems
 ### * 🤖 Learning **Artificial Intelligence & Machine Learning**
 ### * 💡 Interested in **Computer Architecture, DBMS, System Design**
+### * 🎮 Game Designer passionate about interactive systems
+
+
+
   
 <p align="center">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400">
