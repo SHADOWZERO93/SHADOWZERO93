@@ -1,10 +1,7 @@
-<!-- Banner -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=320&section=header&text=Soumyadeep%20Pal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Designer%20|%20AI%20Engineer%20|%20Open%20Source%20Explorer&descAlignY=65&descSize=22"/>
 </p>
-
-<!-- Typing Animation -->
 
 
 <p align="center">
@@ -47,25 +44,27 @@ I design **intelligent systems** and explore the intersection of
 
 ---
 
-
 # 🌐 Socials
 
 <p align="center">
-  
+
 <a href="https://linkedin.com/in/soumyadeep-pal-b0a326325">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://discord.com/users/1481605120801116232">
-<img src="https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-shadowzerofrost-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://x.com/@SHADOWSOUMYA">
-<img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
+<a href="https://x.com/SHADOWSOUMYA">
+<img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:shadowsoumya93@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -76,14 +75,9 @@ I design **intelligent systems** and explore the intersection of
 
 # 💻 Tech Stack
 
-![C](https://skillicons.dev/icons?i=c)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,flask,git,github&theme=dark&perline=4" />
+</p>
 
 ---
 
