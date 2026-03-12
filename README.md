@@ -1,7 +1,7 @@
-<!-- AI Banner -->
+<!-- Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Soumyadeep%20Pal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Designer%20|%20AI%20Engineer%20|%20Open%20Source%20Explorer&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=320&section=header&text=Soumyadeep%20Pal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Designer%20|%20AI%20Engineer%20|%20Open%20Source%20Explorer&descAlignY=65&descSize=22"/>
 </p>
 
 <!-- Typing Animation -->
