@@ -11,7 +11,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHADOWZERO93&theme=dark&hide_border=false&layout=compact)
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SHADOWZERO93&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SHADOWZERO93&theme=onedark&margin-w=10)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
