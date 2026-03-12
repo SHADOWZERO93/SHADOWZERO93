@@ -56,8 +56,8 @@ I design **intelligent systems** and explore the intersection of
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://discordapp.com/users/shadowzerofrost">
-<img src="https://img.shields.io/badge/Discord-shadowzerofrost-5865F2?logo=discord&logoColor=white"/>
+<a href="https://discord.com/users/1481605120801116232">
+<img src="https://img.shields.io/badge/Discord-Add%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="https://x.com/@SHADOWSOUMYA">
