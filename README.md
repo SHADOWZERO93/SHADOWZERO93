@@ -5,10 +5,6 @@
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200">
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hello+I'm+Soumyadeep+Pal;Game+Designer+%F0%9F%8E%AE;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Systems" />
 </p>
 
