@@ -1,6 +1,5 @@
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=320&section=header&text=Soumyadeep%20Pal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Designer%20|%20AI%20Engineer%20|%20Open%20Source%20Explorer&descAlignY=65&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,50:928DAB,100:1F1C2C&height=350&section=header&text=Soumyadeep%20Pal&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20•%20Game%20Designer%20•%20Open%20Source%20Explorer&descAlignY=68&descSize=24"/>
 </p>
 
 
@@ -73,8 +72,24 @@
 
 # 💻 Tech Stack
 
+### Languages & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,java,html,css,flask,git,github&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,flask,git,github&theme=dark&perline=4"/>
+</p>
+
+### AI / Data Science
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
 </p>
 
 ---
