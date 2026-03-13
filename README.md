@@ -4,28 +4,36 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hello+I'm+Soumyadeep+Pal;Game+Designer+%F0%9F%8E%AE;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hello+I'm+Soumyadeep+Pal;Game+Designer+🎮;AI%2FML+Enthusiast+🤖;Building+Intelligent+Systems" />
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
+</p>
 
 # 👋 About Me
 
-
 ### I design **intelligent systems** and explore the intersection of **AI • Security • Game Design**.
+<h3 align="left">
+🤖 Learning <b>Artificial Intelligence & Machine Learning</b>
+</h3>
 
-### * 🤖 Learning **Artificial Intelligence & Machine Learning**
-### * 💡 Interested in **Computer Architecture, DBMS, System Design**
-### * 🎮 Game Designer passionate about interactive systems
+<h3 align="left">
+💡 Interested in <b>Computer Architecture • DBMS • System Design</b>
+</h3>
 
+<h3 align="left">
+🎮 Game Designer passionate about <b>interactive systems</b>
+</h3>
 
-
-  
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
 </p>
 
----
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
+</p>
 
 # ⚡ Currently Working On
 
@@ -39,7 +47,9 @@
 
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
+</p>
 
 # 🌐 Socials
 
@@ -66,7 +76,9 @@
 
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
+</p>
 
 
 
@@ -92,7 +104,9 @@
 
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
+</p>
 
 # 📊 GitHub Analytics
 
@@ -102,20 +116,26 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHADOWZERO93\&theme=dark\&hide_border=false\&layout=compact)
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
+</p>
 
 
 # 🔝 Top Contributions
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHADOWZERO93&theme=github_dark)
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
+</p>
 
 # 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=SHADOWZERO93\&theme=react-dark)
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
+</p>
 
 
 # ✨ Random Dev Quote
@@ -125,7 +145,9 @@
 </p>
 
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
+</p>
 
 
 
@@ -133,6 +155,9 @@
 
 ![](https://komarev.com/ghpvc/?username=SHADOWZERO93&color=blue&style=for-the-badge)
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
+</p>
+
 ⭐ **Always learning, building, and experimenting with new technologies.**
 
