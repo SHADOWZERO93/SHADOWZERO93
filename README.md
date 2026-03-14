@@ -86,7 +86,7 @@
 
 ### Languages & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,java,html,css,flask,git,github&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,flask,git,github&theme=dark&perline=4"/>
 </p>
 
 ### AI / Data Science
@@ -101,6 +101,8 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
 
