@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,50:928DAB,100:1F1C2C&height=350&section=header&text=Soumyadeep%20Pal&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20•%20Game%20Designer%20•%20Open%20Source%20Explorer&descAlignY=68&descSize=24"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,50:928DAB,100:1F1C2C&height=300&section=header&text=Soumyadeep%20Pal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Game%20Designer%20%7C%20Open%20Source%20Explorer&descAlignY=60&descSize=20"
+    width="100%"
+    alt="Soumyadeep Pal Banner"
+  />
 </p>
 
 
