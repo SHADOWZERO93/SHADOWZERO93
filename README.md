@@ -114,27 +114,21 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
 </p>
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHADOWZERO93&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SHADOWZERO93&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHADOWZERO93&theme=dark&hide_border=false&layout=compact&langs_count=8)
+
+</div>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SHADOWZERO93&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="180em"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=SHADOWZERO93&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHADOWZERO93&layout=compact&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
-</p>
-
 
 # 🔝 Top Contributions
 
