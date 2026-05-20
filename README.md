@@ -131,13 +131,6 @@
 </p>
 
 
-# 🔝 Top Contributions
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHADOWZERO93&theme=github_dark)
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
-</p>
 
 # 📈 Contribution Graph
 
