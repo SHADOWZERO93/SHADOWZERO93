@@ -119,6 +119,8 @@
 <img src="https://github-readme-stats-sigma-one-87.vercel.app/api?username=SHADOWZERO93&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=0066FF&text_color=FFFFFF" alt="GitHub Stats" />
 &nbsp;
 <img src="https://github-readme-stats-sigma-one-87.vercel.app/api/top-langs/?username=SHADOWZERO93&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" />
+<br/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=SHADOWZERO93&theme=react&hide_border=true&background=0D1117&ring=00F7FF&fire=0066FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
 
