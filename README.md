@@ -134,11 +134,24 @@
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=SHADOWZERO93\&theme=react-dark)
+<div align="center">
 
-<p align="center">
+<!-- Username header -->
+<h2 style="font-family: monospace;">@SHADOWZERO93 · Contribution Graph</h2>
+
+<!-- Status badges -->
+![Active](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square)
+![Year](https://img.shields.io/badge/Year-2026-0066FF?style=flat-square&logo=github)
+
+</div>
+
+<!-- Graph in a styled card -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHADOWZERO93&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+</div>
+
+<!-- Gradient divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
-</p>
 
 
 # ✨ Random Dev Quote
