@@ -147,6 +147,41 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
 
 
+
+
+# 🧠 Currently Learning
+
+<table>
+<tr>
+<td>
+
+### 🔭 Focus
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Active-0066FF?style=for-the-badge&logo=pytorch&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Active-0066FF?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</td>
+<td>
+
+### 🛠️ Framework
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### ⏭️ Up Next
+![NLP](https://img.shields.io/badge/NLP-Coming%20Soon-0066FF?style=for-the-badge&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-Coming%20Soon-0066FF?style=for-the-badge&logo=huggingface&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+> ⚡ *Currently diving deep into neural networks with PyTorch — next stop: NLP & Transformers.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=3&section=footer" width="100%"/>
+
 # ✨ Random Dev Quote
 
 <p align="center">
